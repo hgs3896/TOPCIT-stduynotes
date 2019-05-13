@@ -1,6 +1,6 @@
 * Introduction
     * [TOPCIT은 무엇인가](./contents/TOPCIT은-무엇인가.md)
-    * 왜 TOPCIT을 보아야 하는가?
+    * [왜 TOPCIT을 보아야 하는가?](./contents/왜-TOPCIT을-보아야-하는가.md)
     * 난이도
 * 기술 영역
     1. 소프트웨어 개발
